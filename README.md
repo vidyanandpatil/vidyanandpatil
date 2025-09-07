@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am student
-
+Reach out me at vidyanandpatil1234@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidyanandpatil_2239) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vidyanandpatil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidyanandpatil1234@gmail.com) 
