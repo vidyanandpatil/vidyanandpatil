@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am student
+I am student<br/>
 Reach out me at vidyanandpatil1234@gmail.com
 
 ## 🌐 Socials:
